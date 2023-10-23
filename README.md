@@ -14,7 +14,7 @@ Este é um aplicativo desenvolvido em React Native utilizando TypeScript e Style
 
 ## Ferramentas e Bibliotecas Utilizadas
 
-- **React Native**: Biblioteca utilizada para desenvolver o aplicativo.
+- **React Native**: Framework utilizado para desenvolver o aplicativo.
 - **TypeScript**: Linguagem de programação que adiciona tipagem estática ao JavaScript.
 - **StyleSheet**: Utilizado para estilizar os componentes do aplicativo.
 

@@ -4,7 +4,7 @@
 
 Este é um aplicativo desenvolvido em React Native utilizando TypeScript e StyleSheet. O objetivo principal é gerenciar uma lista de participantes para um evento específico.
 
-![Instagram Login GIF](./src/assets/img/instagramLogin.gif)
+![Instagram Login GIF](./src/assets/img/gif-app.gif)
 
 ## Funcionalidades
 
